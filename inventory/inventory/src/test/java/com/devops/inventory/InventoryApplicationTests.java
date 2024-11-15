@@ -1,10 +1,10 @@
-package ma.ac.uir.DevOps_Project;
+package com.devops.inventory;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DevOpsProjectApplicationTests {
+class InventoryApplicationTests {
 
 	@Test
 	void contextLoads() {

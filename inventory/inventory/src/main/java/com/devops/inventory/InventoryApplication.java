@@ -1,13 +1,13 @@
-package ma.ac.uir.DevOps_Project;
+package com.devops.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DevOpsProjectApplication {
+public class InventoryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevOpsProjectApplication.class, args);
+		SpringApplication.run(InventoryApplication.class, args);
 	}
 
 }
